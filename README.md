@@ -41,7 +41,9 @@ This computes the reflection coefficient at a single frequency f. In order for u
 The executable files are:
 
 00-binomialFilt_N4.py
+
 01-binomialFilt_Nvar.py
+
 02-binom-cheb-N3-comparison.py
 
 Simply double click them, or execute them in VSCode (with the proper setup).
