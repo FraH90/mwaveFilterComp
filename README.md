@@ -24,6 +24,7 @@ The advantage is that by using a Chebyshev transformer we have an higher bandwid
 ## How it works
 
 The code that compute the magnitude of the reflection coefficients and plots Γ(f) is in plotrefl.py.
+It uses basic RF theory (no electromagnetic simulation were harmed writing this code).
 
 First we find the characteristic impedance of each section, and the length that it must have for being a lambda/4 section at the central frequency f0 (by default f0=2.4GHz).
 
