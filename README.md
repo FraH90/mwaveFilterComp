@@ -50,7 +50,11 @@ Simply double click them, or execute them in VSCode (with the proper setup).
 ## Screenshots
 
 Here's the output of 01-binomialFilt_Nvar.py
+
+
 ![Binomial transformer](Resources/screen_binomVarN.jpeg)
 
 And this is the output of 02-binom-cheb-N3-comparison.py
+
+
 ![Binomial vs Chebyshev](Resources/screen_binom_chebyshev.jpeg)
